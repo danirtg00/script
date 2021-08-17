@@ -2,7 +2,7 @@
 
 _silahkan masukan command_
 
-> wget https://raw.githubusercontent.com/daniertg/jraussh/master/fix2.sh && chmod+x fix2.sh && ./fix2.sh
+> wget https://raw.githubusercontent.com/daniertg/jraussh/master/fix2.sh && chmod +x fix2.sh && ./fix2.sh
 
 
 detail script
